@@ -369,21 +369,22 @@ export const feedbacks: FeedbackType[] = [
 // option to hide or show the ContactUs component
 export const showContactUs: boolean = false;
 
-// See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Rajesh Kannan',
+  title: 'Rajesh dev',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Rajesh Kannan',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  // image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
+  url: 'https://rajesh-dev.vercel.app/',
   keywords: [
     'React',
     'Website',
     'Rajesh',
     'jobs',
     'Portfolio',
+    "nextjs",
     'react Portfolio ',
     'Rajesh dev Portfolio',
   ],
 };
+
