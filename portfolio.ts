@@ -325,8 +325,8 @@ export const projects: ProjectType[] = [
   {
     name: 'Admin Dashboards',
     desc: 'An admin dashboard is a web-based interface that provides an overview of an organization operations and data. It is typically used by administrators and managers to monitor performance, analyze data, and make decisions based on real-time informationOn work',
-    github: 'https://github.com/Rajesh-25-12/Portfolio',
-    // link: 'https://crud-blog.netlify.app/',
+    github: 'https://github.com/Rajesh-25-12/Dashboard',
+    link: 'https://rajeshdev-dashboard.netlify.app/',
   },
   {
     name: 'Finance Management',
